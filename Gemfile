@@ -7,7 +7,7 @@ gem 'rails', '3.2.7'
 
 gem 'pg'
 
-# Gems used only for assets and not required
+# Gems used only for assets asdfand not required
 # in prodfdfdfduction environments by default.
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
