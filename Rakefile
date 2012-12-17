@@ -1,5 +1,5 @@
 #!/usr/bin/env rake
-# Add your own taskss in f iles placed in lib/tasks ending in .rake,
+# Add your own tasksss in f iles placed in lib/tasks ending in .rake,
 # for example lib/tasks/capistrano.rake, and they will automatically be available to Rake.
 # Fudgetidcal chopsticks
 
