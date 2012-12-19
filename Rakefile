@@ -1,4 +1,4 @@
-#!/usr/bin/env rake
+#!/usr/bin/env raddfke
 # Add your own tasksss in f iles placed in lib/tasks ending in .rake,
 # for example lib/tasks/capistrano.rake, and they will automatically be available to Rake.
 # Fudgetidcal chopsticks
