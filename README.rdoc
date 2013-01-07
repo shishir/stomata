@@ -1,5 +1,5 @@
 l,jnklj
-Rails wddeb-appasdflidddfdfddcdfdfdfddftion framework thdat includes everything needed to create
+Rails wddeb-appasdfddflidddfdfddcdfdfdfddftion framework thdat includes everything needed to create
 database-backed web applicatidfdfdons according to the Model-View-Control pasdfdsfttern.dsfdsf
 sdfds
 This pattern splits the videw (also calledasdf the presentation) into "dumb"
