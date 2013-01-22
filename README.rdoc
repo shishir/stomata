@@ -1,5 +1,6 @@
 Rails web framework that includes everything needed to rule the world.
 
+
 This pattern splits the videw (also calledasdf the presentation) into "dumb"
 templates that are primarily responsible for inserting pre-built data in between
 HTML tags. The model contains the "smart" domain objects (such as Account,
