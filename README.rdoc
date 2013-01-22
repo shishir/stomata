@@ -1,4 +1,4 @@
-Rails web framework that includes everything needed to rule the world.
+Rails web framework that includes everything needed to rule the world. go go go.
 
 
 This pattern splits the videw (also calledasdf the presentation) into "dumb"
