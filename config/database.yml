@@ -17,9 +17,7 @@ test:
   host: localhost
 
 production:
-  adapter: mysql2
-  encoding: utf8
-  database: stomata
-  username: root
-  password: <%=ENV['DB_PASS']%>
-  host: <%=ENV['HOST']%>
+  adapter: sqlite3
+  database: db/production.sqlite3
+  pool: 5
+  timeout: 5000
