@@ -1,12 +1,10 @@
-
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.7'
 
 # 696d333dBundle dfdfdfdfdfdfedgde dfdf Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-
-gem 'pg'
+gem 'sqlite3'
 
 # in prodfdfdfduction environments by default.
 group :assets do
